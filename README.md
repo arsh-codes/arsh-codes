@@ -2,15 +2,16 @@
 
 ###
 
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
 <span align="left">
   <img src="https://streak-stats.demolab.com?user=arsh-codes&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
 </span>
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
 <div align="center">
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="26" alt="mongodb logo"  />
   <img width="2" />
