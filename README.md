@@ -2,9 +2,9 @@
 
 ###
 
-<div align="left">
+<span align="left">
   <img src="https://streak-stats.demolab.com?user=arsh-codes&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-</div>
+</span>
 
 ###
 
