@@ -1,4 +1,5 @@
-<h2 align="left">👋 Hi, I’m Arshdeep | Full-Stack Developer & MCA Candidate (2025) | Crafting Scalable Web Solutions</h2>
+<h2 align="left">👋 Hi, I’m Arshdeep | Full-Stack Developer & MCA Candidate (2025)</h2>
+<h2>Crafting Scalable Web Solutions</h2>
 
 ###
 
