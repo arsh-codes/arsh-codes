@@ -1,9 +1,6 @@
 <h2 align="left">👋 Hi, I’m Arshdeep | Full-Stack Developer & MCA Candidate (2025)</h2>
 <h2>Crafting Scalable Web Solutions</h2>
 
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
-
-
 <img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2s4eWE1aDY1YW5iOWs5YXRma3g1ZXc2endlZGNvajI3MWZmenhobSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.webp"  />
 
 ###
