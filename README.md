@@ -1,4 +1,4 @@
-<h2 align="left">👋 Hi, I’m Arshdeep | Full-Stack Developer & MCA Candidate (2025)</h2>
+<h2 align="left">👋 Hi, I’m Arshdeep | Full-Stack Developer & MCA Graduate (2025)</h2>
 <h2>Crafting Scalable Web Solutions</h2>
 
 <img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2s4eWE1aDY1YW5iOWs5YXRma3g1ZXc2endlZGNvajI3MWZmenhobSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.webp"  />
